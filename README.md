@@ -1,0 +1,1 @@
+This query plugin is aimed to be the simplest captcha plugin ever. Its still in development.
